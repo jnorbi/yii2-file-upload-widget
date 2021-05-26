@@ -29,7 +29,6 @@
     "require": {
         "yiisoft/yii2": "^2.0.0",
         "yiisoft/yii2-bootstrap": "^2.0.0",
-        "2amigos/yii2-gallery-widget": "^1.0",
         "bower-asset/blueimp-file-upload": "^10.0",
         "bower-asset/blueimp-tmpl": "^3.0.0",
         "bower-asset/blueimp-load-image": "^5.0.0",
